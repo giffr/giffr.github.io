@@ -349,16 +349,23 @@ input {
 	background-color: #2f2f2f;
 }
 
-#ftxt{
+#ftxt,a{
 	text-transform: uppercase;
 	color: #9a9a9a;
-	font-size: 1em;
+	font-size: .9em;
+}
+
+#ftxt a:hover{
+
+		color:#59CD90;
+		text-decoration: underline;
+
 }
 
 #ftxt1{
 	
 	color: #9a9a9a;
-	font-size: 1em;
+	font-size: .9em;
 }
 
 #launch{
